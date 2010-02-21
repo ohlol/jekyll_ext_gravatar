@@ -1,0 +1,9 @@
+Add this to your _config.yml:
+
+    gravatar_email: you@domain.com
+
+Then simply call it with something like:
+
+    <img src="#{site.gravatar_image}" /> 
+
+Et voila.
